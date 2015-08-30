@@ -1,6 +1,5 @@
 .outside {
     margin-top: 10%;
-    /*background-color: green;*/
 }
 
 .inside-left {
@@ -10,7 +9,6 @@
 }
 
 .inside-right {
-    /*background-color: yellow;*/
     padding: 20px;
 }
 
